@@ -25,16 +25,15 @@ Hello there! 👋 I am a highly skilled Full Stack Developer with over 8 years o
 
 🔧 Tech Stack:
 
-💥Frameworks / Libraries: React, Next.js, Vue.js, Nuxt.js, React Native, Node.js, Express.js, Django, Laravel, Web3
-💥Programming Languages: JavaScript / TypeScript, Python, PHP
-💥Web Development: Web and Mobile application development, front-end and back-end integration, Blockchain
-💥Cloud Technologies: AWS, GCP, Microsoft Azure, Azure DevOps Services
-💥Data Management: SQL, NoSQL, Apache Kafka, Real-time data processing
-💥DevOps / Deployment: Docker, Kubernetes, CI/CD pipelines, Terraform
-💥Testing: Jest, Playwright, Testing Frameworks
-💥Security / Compliance: HIPAA compliance, secure medical record exchange
+💥Frameworks / Libraries: React, Next.js, Vue.js, Nuxt.js, React Native, Node.js, Express.js, Django, Laravel, Web3<br>
+💥Programming Languages: JavaScript / TypeScript, Python, PHP<br>
+💥Web Development: Web and Mobile application development, front-end and back-end integration, Blockchain<br>
+💥Cloud Technologies: AWS, GCP, Microsoft Azure, Azure DevOps Services<br>
+💥Data Management: SQL, NoSQL, Apache Kafka, Real-time data processing<br>
+💥DevOps / Deployment: Docker, Kubernetes, CI/CD pipelines, Terraform<br>
+💥Testing: Jest, Playwright, Testing Frameworks<br>
+💥Security / Compliance: HIPAA compliance, secure medical record exchange<br>
 💥Project Management: Agile Methodologies, team leadership, cross-functional collaboration
-
 
 <br>
    <!--https://github.com/alexandresanlim/Badges4-README.md-Profile/blob/master/README.md-->
@@ -62,8 +61,7 @@ Here are some of my deployed projects that showcase my skills and competency in 
 - [Expense tracker - App](https://expense-tracker648.netlify.app/)
 - [Notes taking - App](https://mj-notes.netlify.app/)
 - [Todo - App](https://junaids-todo-list.netlify.app/)
-
-<br><br>
+<br>
 💬 Communication:
 I’m available for real-time discussions and collaboration.
 
