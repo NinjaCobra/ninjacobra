@@ -62,8 +62,10 @@ Here are some of my deployed projects that showcase my skills and competency in 
 - [Food order landing page](https://junaid-food-order-app.netlify.app/)
 - [Expense tracker - App](https://expense-tracker648.netlify.app/)
 - [Notes taking - App](https://mj-notes.netlify.app/)
-- [Todo - App](https://junaids-todo-list.netlify.app/)<br>
-  💬 Communication: I'm available for real-time discussions and collaboration.
+- [Todo - App](https://junaids-todo-list.netlify.app/)
+<br>
+
+💬 Communication: I'm available for real-time discussions and collaboration.
 
 📩 Open for New Projects: Feel free to DM me to discuss your project ideas and how we can work together!
 
