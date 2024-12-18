@@ -7,16 +7,17 @@ Hello there! 👋 I am a highly skilled Full Stack Developer with over 8 years o
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 <div id="badges"align="center">
+<a>
     <img width="32" height="32" src="https://web.whatsapp.com/favicon-64x64.ico" />
 </a>
-<a href="/">
+<a>
     <img width="32" height="32" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG32.png"/>
 </a>
 
-  <a href="/">
+<a>
     <img width="32" height="32" src="https://raw.githubusercontent.com/evilgenius786/evilgenius786/main/upwork.ico" />
 </a>
-<a href="/">
+<a>
     <img width="32" height="32" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" />
 </a>
 </div>
