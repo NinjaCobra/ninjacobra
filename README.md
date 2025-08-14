@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/ninjacobra/ninjacobra/blob/master/images/illustration.png" width="300"/>
+<img align="right" src="https://github.com/ninjacobra/ninjacobra/blob/main/images/illustration.png" width="300"/>
 
 # NinjaCobra - Senior Full-Stack Developer
 
