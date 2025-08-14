@@ -1,16 +1,16 @@
 <div align="center">
-  <img src="https://github.com/ninjacobra/ninjacobra/blob/main/images/illustration.png" width="300" alt="NinjaCobra Illustration"/>
+  <img src="https://github.com/ninjacobra/ninjacobra/blob/main/images/illustration.png" width="400" alt="NinjaCobra Illustration"/>
   
   # <img src="https://api.iconify.design/game-icons:snake.svg?color=%23FFD700" alt="Snake" width="35" height="35" /> NinjaCobra
   ### Senior Full-Stack Developer
   
-  <a href="https://linkedin.com/in/ninjacobra" title="LinkedIn" target="_blank" rel="noopener noreferrer" style="margin: 0 8px;">
+  <a href="https://linkedin.com/in/ninjacobra" title="LinkedIn" target="_blank" rel="noopener noreferrer" style="margin: 0 8px; text-decoration: none">
     <img src="https://api.iconify.design/logos:linkedin-icon.svg?animated=true" width="40" height="40" alt="LinkedIn" onclick="window.open('https://linkedin.com/in/ninjacobra', '_blank')" style="cursor:pointer;"/>
   </a>
-  <a href="mailto:dev.ninja.cobra@gmail.com" title="Gmail" target="_blank" rel="noopener noreferrer" style="margin: 0 8px;">
+  <a href="mailto:dev.ninja.cobra@gmail.com" title="Gmail" target="_blank" rel="noopener noreferrer" style="margin: 0 8px; text-decoration: none">
     <img src="https://api.iconify.design/logos:google-gmail.svg?animated=true" width="40" height="40" alt="Gmail"/>
   </a>
-  <a href="https://ninjacobra.dev" title="Portfolio" target="_blank" rel="noopener noreferrer" style="margin: 0 8px;">
+  <a href="https://ninjacobra.dev" title="Portfolio" target="_blank" rel="noopener noreferrer" style="margin: 0 8px; text-decoration: none">
     <img src="https://api.iconify.design/noto-v1:film-projector.svg" width="40" height="40" alt="Portfolio Website"/>
   </a>
   
