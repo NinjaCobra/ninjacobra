@@ -1,20 +1,14 @@
+<img align="right" src="https://github.com/ninjacobra/ninjacobra/blob/master/images/illustration.png" width="300"/>
+
 # NinjaCobra - Senior Full-Stack Developer
 
 Hello there! 👋 I am a highly skilled Full Stack Developer with over 8 years of experience in building scalable, secure, and efficient web applications. My expertise spans both frontend and backend development, with a strong focus on creating seamless user experiences and robust server-side functionality. I am proficient in building dynamic, data-driven applications using modern frameworks and technologies like React.js, Next.js, Vue.js, Nuxt.js, Django, Flutter, Angular, Laravel and Blockchain. My passion lies in delivering high quality, maintainable code that meets user needs while optimizing performance and scalability.
 
---------------------------------------------------------------------------------
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300">
-</div>
-
-## My Skills
-
 🔧 Tech Stack:
 
-💥Frameworks / Libraries: React, Next.js, Vue.js, Nuxt.js, React Native, Node.js, Express.js, Django, Laravel, Web3<br>
+💥Frameworks / Libraries: React, Next.js, Vue.js, Nuxt.js, Node.js, Express.js, Django, Laravel, Shopify<br>
 💥Programming Languages: JavaScript / TypeScript, Python, PHP<br>
-💥Web Development: Web and Mobile application development, front-end and back-end integration, Blockchain<br>
+💥Web Development: Web and Mobile application development, front-end and back-end integration<br>
 💥Cloud Technologies: AWS, GCP, Microsoft Azure, Azure DevOps Services<br>
 💥Data Management: SQL, NoSQL, Apache Kafka, Real-time data processing<br>
 💥DevOps / Deployment: Docker, Kubernetes, CI/CD pipelines, Terraform<br>
@@ -23,16 +17,6 @@ Hello there! 👋 I am a highly skilled Full Stack Developer with over 8 years o
 💥Project Management: Agile Methodologies, team leadership, cross-functional collaboration
 
 <br>
-<!--https://github.com/alexandresanlim/Badges4-README.md-Profile/blob/master/README.md-->
-
-<div align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=white">
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&amp;logo=tailwind-css&amp;logoColor=white">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=node-dot-js&amp;logoColor=white">
-    <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&amp;logo=npm&amp;logoColor=white">
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&amp;logo=express&amp;logoColor=white"></div>
 
 ## Projects
 
@@ -58,3 +42,4 @@ Here are some of my deployed projects that showcase my skills and competency in 
 Thank you!
 
 Let's create incredible web experiences together!
+
