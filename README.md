@@ -4,20 +4,8 @@
   # <img src="https://api.iconify.design/game-icons:snake.svg?color=%23FFD700" alt="Snake" width="35" height="35" /> NinjaCobra
   ### Senior Full-Stack Developer
   
-  <a href="https://linkedin.com/in/ninjacobra" title="LinkedIn" target="_blank" rel="noopener noreferrer" style="margin: 0 8px; text-decoration: none">
-    <img src="https://api.iconify.design/logos:linkedin-icon.svg?animated=true" width="40" height="40" alt="LinkedIn" onclick="window.open('https://linkedin.com/in/ninjacobra', '_blank')" style="cursor:pointer;"/>
-  </a>
-  <a href="mailto:dev.ninja.cobra@gmail.com" title="Gmail" target="_blank" rel="noopener noreferrer" style="margin: 0 8px; text-decoration: none">
-    <img src="https://api.iconify.design/logos:google-gmail.svg?animated=true" width="40" height="40" alt="Gmail"/>
-  </a>
-  <a href="https://ninjacobra.dev" title="Portfolio" target="_blank" rel="noopener noreferrer" style="margin: 0 8px; text-decoration: none">
-    <img src="https://api.iconify.design/noto-v1:film-projector.svg" width="40" height="40" alt="Portfolio Website"/>
-  </a>
-  
   *<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f680.png" alt="Rocket" width="20" height="20" /> Building scalable, secure, and efficient web applications with 8+ years of experience*
 </div>
-
----
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> About Me
 
@@ -128,17 +116,6 @@ Here are some of my deployed projects that showcase my skills and competency in 
 I'm always open to discussing new opportunities, collaborations, or just having a chat about technology!
 
 <div align="center">
-  
-  <a href="https://linkedin.com/in/ninjacobra" title="LinkedIn" target="_blank" rel="noopener noreferrer" style="margin: 0 8px;">
-    <img src="https://api.iconify.design/logos:linkedin-icon.svg?animated=true" width="40" height="40" alt="LinkedIn" onclick="window.open('https://linkedin.com/in/ninjacobra', '_blank')" style="cursor:pointer;"/>
-  </a>
-  <a href="mailto:dev.ninja.cobra@gmail.com" title="Gmail" target="_blank" rel="noopener noreferrer" style="margin: 0 8px;">
-    <img src="https://api.iconify.design/logos:google-gmail.svg?animated=true" width="40" height="40" alt="Gmail"/>
-  </a>
-  <a href="https://ninjacobra.dev" title="Portfolio" target="_blank" rel="noopener noreferrer" style="margin: 0 8px;">
-    <img src="https://api.iconify.design/noto-v1:film-projector.svg" width="40" height="40" alt="Portfolio Website"/>
-  </a>
-  
   **<img src="https://api.iconify.design/emojione-v1:three-speech-bubbles.svg" alt="Speech Balloon" width="20" height="20" /> Communication:** I'm available for real-time discussions and collaboration
   
   **<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope.png" alt="Envelope" width="20" height="20" /> Email:** dev.ninja.cobra@gmail.com
