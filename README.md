@@ -117,8 +117,6 @@ I'm always open to discussing new opportunities, collaborations, or just having 
 
 <div align="center">
   **<img src="https://api.iconify.design/emojione-v1:three-speech-bubbles.svg" alt="Speech Balloon" width="20" height="20" /> Communication:** I'm available for real-time discussions and collaboration
-  
-  **<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope.png" alt="Envelope" width="20" height="20" /> Email:** dev.ninja.cobra@gmail.com
 </div>
 
 ---
